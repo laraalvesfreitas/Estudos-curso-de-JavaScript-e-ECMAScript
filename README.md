@@ -24,5 +24,6 @@ Ambiente: Node.js
 
 Editor: VS Code
 
-Lara Alves Freitas
-Sistemas de Informação - PUC Minas
+
+
+*Lara Alves Freitas*
